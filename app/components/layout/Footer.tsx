@@ -28,7 +28,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link to="https://beian.miit.gov.cn/" className="text-base text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">
-                  蜀ICP备18010316号-1
+                  蜀ICP备18010316号
                 </Link>
               </li>
               
